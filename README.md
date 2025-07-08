@@ -6,7 +6,7 @@ A clean and functional full-stack **Library Management System** built with **Rea
 
 ## 🔗 Live Site (if available)
 
-[View Live Application](https://your-live-link.netlify.app)
+[View Live Application]([https://your-live-link.netlify.app](https://redux-mu-seven.vercel.app)
 
 ---
 
